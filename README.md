@@ -5,7 +5,7 @@ Finding pair of stocks that can be traded together using Machine Learning
 This is a very powerful technique used by investors to play safe in the stock market
 They find stocks that have historically moved together. This happens mostly with stocks of companies that belong to the same sector (eg. Pepsi & Coca-Cola, Amazon & Google) or companies that are dependent on one another (eg: one company drills oil wells, other manufactures drills)
 
-Strategy - when prices of these stocks diverge, buy the lower one, sell the higher
+Strategy - when prices of these stocks diverge, buy the lower one, sell the higher 
 Assumption - prices will meet in near future 
 Thus, If lower one's price increases - they can earn profit by selling it now
 If higher one's price decreases - they have earned profit by selling it at higher price earlier
